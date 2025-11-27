@@ -1,0 +1,37 @@
+   
+header {
+    max-width: 100%;
+}
+
+body {
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.container {
+    display: flex;
+    gap: 150px;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 0 40px;
+    
+}
+
+.container p {
+    flex:1 ;
+}
+
+
+.container2 {
+    display: flex;
+    gap: 895px;
+    text-align: justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    margin: 0 35px;
+}
+
+.container2 p {
+    flex: 1;
+}
+
